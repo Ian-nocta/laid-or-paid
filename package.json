@@ -25,5 +25,9 @@
     "@unocss/preset-uno": "^0.55.7",
     "@unocss/reset": "^0.55.7",
     "unocss": "^0.55.7"
-  }
+  },
+  "description": "<p align=\"left\">\r     <img width=\"500\" height=\"auto\" src=\"https://i.imgur.com/qB3UV2j.png\" alt=\"homepagescreenshot\" />\r </p>",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }
